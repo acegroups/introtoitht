@@ -1,0 +1,25 @@
+*{
+    color:aquamarine
+}
+
+.header h1{
+    color:aqua;
+    text-align: center;
+}
+body{
+    background-color: rgb(70, 69, 69);
+}
+li{
+    list-style: none;
+    text-align: center;
+}
+a{
+    font-style: italic;
+    font-weight: lighter;
+}
+.container>div{
+    display: flex;
+    height: 200px;
+    justify-content: center;
+    gap: 20px;
+}
